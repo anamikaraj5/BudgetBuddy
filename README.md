@@ -27,8 +27,8 @@ Budget Buddy is a simple and easy-to-use expense tracker built using the MERN st
 ### 📥 Clone the Repository:
 
 ```html
-git clone https://github.com/anamikaraj5/Certificate_DApp.git
-cd Certificate_DApp
+git clone https://github.com/anamikaraj5/BudgetBuddy.git
+cd BudgetBuddy
 ```
 
 ### 🏗️ Run Using Docker Compose:
